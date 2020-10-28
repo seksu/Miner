@@ -11,3 +11,6 @@
   - ETH : 0xd62533ab4fc3dbb25c8c6aa22b9e74541efb29f5
   - xzc : aEqrZ7g4y9CRo2rr5p999M6Tfq1Bbvbrhs
   - ./cpuminer -a lyra2z -o stratum+tcp://asia.lyra2z-hub.miningpoolhub.com:20581 -u smartfarm.workername2 -p password -B
+
+
+- ./CryptoDredge -a mtp -o stratum+tcp://zcoin.mintpond.com:3000 -u aBm9LgtxwwfPLyVnwTXEPEKrehVhFHhWFh.003 -p x
