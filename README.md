@@ -8,7 +8,7 @@
   - https://drive.google.com/drive/u/2/folders/0B8uPgCHycI9VQmhpemtVNzdzUW8
   - ccminer -a lyra2z -o stratum+tcp://asia.zcoin.miningpoolhub.com:20581 -u smartfarm.workername1 -p password
   - ./cpuminer -a lyra2z -o stratum+tcp://asia.zcoin.miningpoolhub.com:20581 -u smartfarm.workername2 -p password -B
-  - ETH : 0xd62533ab4fc3dbb25c8c6aa22b9e74541efb29f5
+  - ETH : 0x372a74056636a825fe58c3f76dda70cd04396018
   - xzc : aEqrZ7g4y9CRo2rr5p999M6Tfq1Bbvbrhs
   - ./cpuminer -a lyra2z -o stratum+tcp://asia.lyra2z-hub.miningpoolhub.com:20581 -u smartfarm.workername2 -p password -B
 
