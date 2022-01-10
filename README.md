@@ -14,4 +14,4 @@
 
 
 - ./CryptoDredge -a mtp -o stratum+tcp://zcoin.mintpond.com:3000 -u aBm9LgtxwwfPLyVnwTXEPEKrehVhFHhWFh.003 -p x
-- metamask : 0xef48A80f55727F8a32312AdFD753518079791F16
+- metamask : 0x489755C8EB69964caFf41005a63aa0B54732777B
